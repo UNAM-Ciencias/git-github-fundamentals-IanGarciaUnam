@@ -21,6 +21,10 @@ git push
       ```
       Fijamos a origin main como la rama principal
 
+    * Permiten  subir los cambios a la rama previamente fijada
+      ```
+      git push
+      ```
 
 ## Lo  que aún me confunde
 
