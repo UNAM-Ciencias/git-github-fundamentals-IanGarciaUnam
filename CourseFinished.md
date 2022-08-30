@@ -13,8 +13,7 @@ git fetch
     * Nos indica los últimos cambios
     * No los mezcla, solo los señaliza
 
-
-# Lo  que aún me confunde
+## Lo  que aún me confunde
 
   * Todavía me confundo sobre como obligar a rastrear los cambios para hacer un pull request, pero supongo que con
   la práctica lo entenderé.
