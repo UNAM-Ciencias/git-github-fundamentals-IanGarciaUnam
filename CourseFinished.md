@@ -14,6 +14,12 @@ git fetch
     * No los mezcla, solo los señaliza
 
 
+# Lo  que aún me confunde
+
+  * Todavía me confundo sobre como obligar a rastrear los cambios para hacer un pull request, pero supongo que con
+  la práctica lo entenderé.
+
+
 También comprendí porque es importante ramificar como buena praxis y no utilizar únicamente main
 como una rama de trabajo general.
 ## Author
