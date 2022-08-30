@@ -12,6 +12,15 @@ git fetch
 ```
     * Nos indica los últimos cambios
     * No los mezcla, solo los señaliza
+```
+git push
+```
+    * Permite subir los cambios; cuando utilizamos
+      ```
+      git push -u origin main
+      ```
+      Fijamos a origin main como la rama principal
+
 
 ## Lo  que aún me confunde
 
